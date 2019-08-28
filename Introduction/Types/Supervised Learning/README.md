@@ -9,4 +9,4 @@ By default, we label it as spam if P(x is spam)>=0.5 i.e. if P(x is spam)>=P(x i
 
 More generally put, we must compute P(C|X) i.e. the probability of a class C given a training example X i.e. the probability of X belonging to C.
 
-![Neurons](https://vikrambajaj22.gitbooks.io/cs-gy-6923-machine-learning/content/assets/neuron.png)
+![Neurons](https://vikrambajaj22.gitbooks.io/cs-gy-6923-machine-learning/content/assets/polynomial%20regression.png)
