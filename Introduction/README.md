@@ -1,4 +1,4 @@
-What is Machine Learning?
+# What is Machine Learning?
 
 Machine Learning is the field of study that deals with making computers "learn" from data/experience.
 
