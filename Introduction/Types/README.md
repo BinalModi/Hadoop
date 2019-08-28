@@ -1,8 +1,11 @@
-###Types of Machine Learning
+# Types of Machine Learning
 
 There are mainly 4 types of Machine Learning:
 
-Supervised Learning
-Unsupervised Learning
-Reinforcement Learning
-Learning Association Rules (Data Mining)
+
+|  | Types|
+| ------------- |:-------------:|
+| 1 | Supervised Learning |
+| 2 | Unsupervised Learning |
+| 3 | Reinforcement Learning | 
+| 4 |Learning Association Rules (Data Mining) |
